@@ -25,7 +25,7 @@ This C++ program demonstrates the Huffman encoding and decoding technique, a los
 
 Input:
 ```
-Original string: "ravi"
+Original string: "aaappplleee"
 ```
 
 Output:
