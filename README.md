@@ -25,12 +25,12 @@ This C++ program demonstrates the Huffman encoding and decoding technique, a los
 
 Input:
 ```
-Original string: "aaappplleee"
+Original string: "Huffman coding is a data compression algorithm"
 ```
 
 Output:
 ```
-Encoded string: "00011011"
+Encoded string: "0011000101110101101001110101010100000011101101111001010011010011001011100010100110110101111101010000001110011100100000100111101110111100111010101000101111010110111000011100111111111000111"
  
 ```
 
